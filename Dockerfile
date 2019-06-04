@@ -1,4 +1,4 @@
-FROM ruby:2.4.1
+FROM ruby:2.6
 LABEL maintainer="michael_a._perz@omb.eop.gov"
 
 # Allow apt to work with https-based sources
